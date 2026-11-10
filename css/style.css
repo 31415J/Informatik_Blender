@@ -611,7 +611,7 @@ header{
   float: right;
 
   position: sticky;
-  width: 700px;
+  width: 20%;
   top: 150px;
   right: 40px;
 
@@ -624,10 +624,10 @@ header{
   gap: 5px;
 }
 .tags-item{
-  background-color: var(--background-color);
+  background-color: var(--background-color-dark);
   border-radius: 50px;
   padding: 5px 15px;
-  border: 1px;
+  border: 2px;
   border-color: var(--accent-color);
   border-style: double;
   display: flex;
