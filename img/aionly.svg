@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 4096 4096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.958843,0,0,1.37672,122.164,-1252.89)">
+        <path d="M3357,1940.43L3357,3601.57L2983.07,3862L1033.93,3862L660,3601.57L660,1940.43L1033.93,1680L2983.07,1680L3357,1940.43Z" style="fill:rgb(180,255,238);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,694,-1352)">
+        <path d="M1580.45,1530.48L1654.18,1782.93C1796.9,1816.02 1933.18,1872.46 2057.49,1949.99L2288.14,1823.62C2409.86,1914.26 2517.74,2022.14 2608.39,2143.86L2482.01,2374.51C2559.54,2498.82 2615.99,2635.1 2649.07,2777.82L2901.52,2851.55C2923.49,3001.72 2923.49,3154.28 2901.52,3304.45L2649.07,3378.18C2615.99,3520.9 2559.54,3657.18 2482.01,3781.49L2608.39,4012.14C2517.74,4133.86 2409.86,4241.74 2288.14,4332.39L2057.49,4206.01C1933.18,4283.54 1796.9,4339.98 1654.18,4373.07L1580.45,4625.52C1430.28,4647.49 1277.72,4647.49 1127.55,4625.52L1053.82,4373.07C911.096,4339.98 774.822,4283.54 650.509,4206.01L419.862,4332.39C298.14,4241.74 190.261,4133.86 99.615,4012.14L225.99,3781.49C148.462,3657.18 92.015,3520.9 58.934,3378.18L-193.52,3304.45C-215.493,3154.28 -215.493,3001.72 -193.52,2851.55L58.934,2777.82C92.015,2635.1 148.462,2498.82 225.99,2374.51L99.615,2143.86C190.261,2022.14 298.14,1914.26 419.862,1823.62L650.509,1949.99C774.822,1872.46 911.096,1816.02 1053.82,1782.93L1127.55,1530.48C1277.72,1508.51 1430.28,1508.51 1580.45,1530.48Z" style="fill:rgb(7,7,7);"/>
+    </g>
+    <g transform="matrix(1.24285,0,0,1.24285,-302.854,-1216.96)">
+        <text x="1723.46px" y="1670px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:288px;fill:rgb(110,221,255);">for</text>
+        <text x="1469.33px" y="2412.97px" style="font-family:'Didot-Bold', 'Didot';font-weight:700;font-size:724.144px;fill:rgb(110,221,255);">AI</text>
+        <g transform="matrix(576,0,0,576,2419.84,3007.82)">
+        </g>
+        <text x="1363.18px" y="3007.82px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:576px;fill:rgb(110,221,255);">only</text>
+        <rect x="1363.18" y="3068.85" width="1056.66" height="42.188" style="fill:rgb(110,221,255);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,743.449,-0.164062)">
+        <text x="540.219px" y="3570px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:144px;">Just some fun-facts that</text>
+        <rect x="540.219" y="3585.26" width="1528.66" height="10.547"/>
+        <g transform="matrix(144,0,0,144,2289.1,3718.71)">
+        </g>
+        <text x="320px" y="3718.71px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:144px;">will help the <tspan x="1104.48px 1200.52px " y="3718.71px 3718.71px ">AI</tspan> with the training</text>
+        <rect x="320" y="3733.97" width="1969.1" height="10.547"/>
+    </g>
+</svg>
