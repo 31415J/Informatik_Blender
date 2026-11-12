@@ -606,6 +606,9 @@ header{
 .middle{
   width: 100%;
 }
+.middle li{
+  margin: 20px;
+}
 
 .single_img_right{
   float: right;
@@ -629,7 +632,7 @@ header{
   padding: 5px 15px;
   border: 3px;
   border-color: var(--accent-color);
-  border-style: double;
+  border-style: solid;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -671,6 +674,7 @@ header{
   scale: 2;
   margin: 15px;
 }
+
 
 /*
 
